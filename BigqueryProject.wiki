@@ -1,0 +1,8 @@
+= Connecting to Heroku PostgreSQL CLI =
+
+:heroku:database:
+
+```
+heroku login
+heroku psql postgresql-animate-34506 --app dit-lowesweb-kineticcafe
+```

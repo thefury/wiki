@@ -1,0 +1,265 @@
+
+= Current Projects =
+[[Inbox]]
+[[Scratch]]
+
+= Logs =
+[[DadNotes]]
+
+= Generated Indexes =
+
+*note*: To regenerate tags
+
+`:VimwikiRebuildTags`
+`:ZettelGeneratetags` or `:ZettelGenerateLinks` or `:ZettelInbox`
+= Generated Tags =
+
+== app-idea ==
+
+  - [[SelfHostedOneTimeSecret|SelfHostedOneTimeSecret]]
+
+== app-ideas ==
+
+  - [[ApplicationIdeas|ApplicationIdeas]]
+
+== art ==
+
+  - [[ArtPalette|ArtPalette]]
+
+== aws ==
+
+  - [[CloudWatch|CloudWatch]]
+
+== boat-building ==
+
+  - [[MakingCanoe|MakingCanoe]]
+  - [[BoatBuilding|BoatBuilding]]
+
+== business ==
+
+  - [[WorkyardInfrastructureIdeas|WorkyardInfrastructureIdeas]]
+  - [[WorkyardBusinessDevelopment|WorkyardBusinessDevelopment]]
+  - [[SideDishIdeas|SideDishIdeas]]
+  - [[SSMParameterStoreSidecar|SSMParameterStoreSidecar]]
+
+== business-ideas ==
+
+  - [[BusinessIdeas|BusinessIdeas]]
+
+== canoe ==
+
+  - [[MakingCanoe|MakingCanoe]]
+
+== career ==
+
+  - [[Resume|Resume]]
+
+== chroot ==
+
+  - [[SFTPIssues|SFTPIssues]]
+
+== cleanup ==
+
+  - [[WorkyardInfrastructureIdeas|WorkyardInfrastructureIdeas]]
+  - [[WorkyardBusinessDevelopment|WorkyardBusinessDevelopment]]
+  - [[WoodworkingTableBehindCouch|WoodworkingTableBehindCouch]]
+  - [[VimCommands|VimCommands]]
+  - [[Vehicles|Vehicles]]
+  - [[SurfAlbum|SurfAlbum]]
+  - [[SideDishIdeas|SideDishIdeas]]
+  - [[Resume|Resume]]
+  - [[MakingCanoe|MakingCanoe]]
+  - [[MakerSpaceLaser|MakerSpaceLaser]]
+  - [[HuntingRegulations|HuntingRegulations]]
+  - [[EncryptionAsAService|EncryptionAsAService]]
+  - [[ConsultingBusiness|ConsultingBusiness]]
+  - [[CloudWatch|CloudWatch]]
+
+== client ==
+
+  - [[LanewayMillworks|LanewayMillworks]]
+
+== client-work ==
+
+  - [[LanewayCleanHackedServer|LanewayCleanHackedServer]]
+
+== consulting ==
+
+  - [[ConsultingBusiness|ConsultingBusiness]]
+  - [[ConsultancyCourses|ConsultancyCourses]]
+
+== dad ==
+
+  - [[Estate-CapitalOne|Estate-CapitalOne]]
+  - [[DadNotes|DadNotes]]
+  - [[DadEstate|DadEstate]]
+
+== database ==
+
+  - [[BigqueryProject|BigqueryProject]]
+
+== devops ==
+
+  - [[CloudWatch|CloudWatch]]
+
+== encryption ==
+
+  - [[EncryptionAsAService|EncryptionAsAService]]
+
+== errors ==
+
+  - [[VagrantErrors|VagrantErrors]]
+
+== fiberglass ==
+
+  - [[BoatBuilding|BoatBuilding]]
+
+== heroku ==
+
+  - [[BigqueryProject|BigqueryProject]]
+
+== hunting ==
+
+  - [[HuntingRegulations|HuntingRegulations]]
+  - [[BoatBuilding|BoatBuilding]]
+
+== ideas ==
+
+  - [[WorkyardInfrastructureIdeas|WorkyardInfrastructureIdeas]]
+  - [[WorkyardBusinessDevelopment|WorkyardBusinessDevelopment]]
+  - [[SideDishIdeas|SideDishIdeas]]
+  - [[SSMParameterStoreSidecar|SSMParameterStoreSidecar]]
+  - [[MusicIdeas|MusicIdeas]]
+  - [[LeatherIdeas|LeatherIdeas]]
+  - [[BusinessIdeas|BusinessIdeas]]
+  - [[ApplicationIdeas|ApplicationIdeas]]
+
+== index ==
+
+  - [[WorkyardLabs|WorkyardLabs]]
+
+== laneway ==
+
+  - [[LanewayCleanHackedServer|LanewayCleanHackedServer]]
+
+== leather ==
+
+  - [[LeatherIdeas|LeatherIdeas]]
+
+== makerspace ==
+
+  - [[MakerSpaceLaser|MakerSpaceLaser]]
+
+== melody ==
+
+  - [[MelodicMath|MelodicMath]]
+
+== monitoring ==
+
+  - [[CloudWatch|CloudWatch]]
+
+== music ==
+
+  - [[SurfAlbum|SurfAlbum]]
+  - [[MusicIdeas|MusicIdeas]]
+  - [[MelodicMath|MelodicMath]]
+  - [[CoversToLearn|CoversToLearn]]
+
+== myog ==
+
+  - [[MakerSpaceLaser|MakerSpaceLaser]]
+
+== painting ==
+
+  - [[ArtPalette|ArtPalette]]
+
+== postgresql ==
+
+  - [[PostgreSQLViews|PostgreSQLViews]]
+  - [[PostgreSQLSchema|PostgreSQLSchema]]
+
+== project ==
+
+  - [[WorkyardWebsiteUpgrade|WorkyardWebsiteUpgrade]]
+  - [[WoodworkingTableBehindCouch|WoodworkingTableBehindCouch]]
+
+== repetoir ==
+
+  - [[CoversToLearn|CoversToLearn]]
+
+== resume ==
+
+  - [[Resume|Resume]]
+
+== schema ==
+
+  - [[PostgreSQLSchema|PostgreSQLSchema]]
+
+== services ==
+
+  - [[WorkyardBusinessDevelopment|WorkyardBusinessDevelopment]]
+
+== sftp ==
+
+  - [[SFTPIssues|SFTPIssues]]
+
+== snippet ==
+
+  - [[PostgreSQLViews|PostgreSQLViews]]
+  - [[PostgreSQLSchema|PostgreSQLSchema]]
+
+== songwriting ==
+
+  - [[SurfAlbum|SurfAlbum]]
+  - [[MelodicMath|MelodicMath]]
+
+== sql ==
+
+  - [[PostgreSQLViews|PostgreSQLViews]]
+  - [[PostgreSQLSchema|PostgreSQLSchema]]
+
+== surf ==
+
+  - [[SurfAlbum|SurfAlbum]]
+
+== tools ==
+
+  - [[DiagramingTools|DiagramingTools]]
+
+== vagrant ==
+
+  - [[VagrantErrors|VagrantErrors]]
+
+== vault ==
+
+  - [[EncryptionAsAService|EncryptionAsAService]]
+
+== vehicle ==
+
+  - [[Vehicles|Vehicles]]
+  - [[VehicleInformation|VehicleInformation]]
+
+== view ==
+
+  - [[PostgreSQLViews|PostgreSQLViews]]
+
+== vim ==
+
+  - [[VimCommands|VimCommands]]
+
+== woodworking ==
+
+  - [[WoodworkingTableBehindCouch|WoodworkingTableBehindCouch]]
+
+== workyard ==
+
+  - [[WorkyardWebsiteUpgrade|WorkyardWebsiteUpgrade]]
+  - [[WorkyardLabs|WorkyardLabs]]
+  - [[WorkyardInfrastructureIdeas|WorkyardInfrastructureIdeas]]
+  - [[WorkyardBusinessDevelopment|WorkyardBusinessDevelopment]]
+  - [[SideDishIdeas|SideDishIdeas]]
+  - [[SSMParameterStoreSidecar|SSMParameterStoreSidecar]]
+  - [[LanewayMillworks|LanewayMillworks]]
+  - [[LanewayCleanHackedServer|LanewayCleanHackedServer]]
+  - [[ConsultingBusiness|ConsultingBusiness]]
+  - [[ConsultancyCourses|ConsultancyCourses]]

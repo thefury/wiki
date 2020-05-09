@@ -1,0 +1,8 @@
+Application Ideas
+
+:ideas:app-ideas:
+
+
+- release generator with notes from git or jira or similar
+- application idea - SFTP in a container
+- application idea - convert all previously written software to containerized

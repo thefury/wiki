@@ -1,0 +1,49 @@
+# Encryption as a Service
+
+:encryption:vault:cleanup:
+
+## Using Vault For database Encryption
+
+
+## Links
+
+- [[https://www.hashicorp.com/resources/how-does-vault-encrypt-data|from hashicorp]]
+- [[https://katacoda.com/hashicorp/scenarios/vault-transit|katacode - vault as a service]]
+- [[https://www.vaultproject.io/docs/secrets/transit/index.html|hashicorp transit engine]]
+
+## Blog Post
+
+- [[https://trello.com/c/pxERJdFB/2-encryption-as-a-service|blog progress (trello)]]
+
+- Intro
+  - I'm looking into methods for de-coupling encryption from the database
+  - reason for wanting to do this
+    - database level encryption makes key rotation and management non-trivial
+    - could use something like pg-crypto
+    - multiple persistent stores could use different engines and keys
+  - this ariticle is my learning on the subject
+
+- One of the standout products in secrets management is Vault
+  - the more I play with it, the happier I am with it
+  - I'm continuing to experiment with combining it with Consul
+
+- Encryption as a Service or The Transit Secret Engine
+  - after adding the transit secret backend
+  - the application encrypts the data in memory using the RESTful endpoint
+  - the application writes the encrypted data to the persistent store
+  - decryption is the reverse
+
+- Decryption is the reverse
+
+- problems with this methid
+  - querying is impossible, wheras with pgcrypto you can put decrypt into the query
+  - show an example of this
+  - however, I think this would be pretty damn slow to begin with
+  - should do a quick test
+- Rotation of Keys
+  - link to a new aritcle on rotating transit keys in vault, especially in respect to pg
+  - This is critically important for me
+  - why is rotation, especially simple roation, important to me
+  - doing things repeatedly and automating them is amazing
+
+

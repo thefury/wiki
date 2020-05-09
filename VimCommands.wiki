@@ -1,0 +1,20 @@
+= Vim = 
+
+:vim:cleanup:
+
+## Leader Key
+
+You often see things like <leader>ww in vim commands. This is a special key that allows the user to create customizable commands.
+
+### Modifying
+
+To change from the default ('\') to a comma, put this in your vimrc file:
+
+`let mapeader = ","`
+
+### Custom Commands
+
+To create a custom, easier to use, command that calls `:bufdo e!`:
+
+`map <leader>e :bufdo e!<CR>`
+

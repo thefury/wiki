@@ -1,0 +1,148 @@
+# Cloudwatch Notes
+
+:devops:monitoring:aws:cleanup:
+
+## Links
+- [[https://tutorialsdojo.com/aws-cheat-sheet-amazon-cloudwatch/|cheat sheet]]
+- [[https://tutorialsdojo.com/aws-cheat-sheet-amazon-cloudwatch/|CloudWatch Overview]]
+
+** Overview
+
+access all system data from a single resource
+collects metrics, logs,, etc
+
+Most AWS systems automatically publish detailed 1 minute metrics
+
+Cloudwatch Agent (part of AWS Systems Manager) or API can be used
+to collect, publish, and store this data
+
+Can be used to scale up and scale down to improve resource allocation
+
+Can also be used for
+- Application Monitoring 
+- collect info from application logs, etc (store out of product)
+cloudwatch alarm triggers SNS function
+triggers lambda which runs on database
+application stock levels modified and updated
+
+Log Analysis
+
+** Features
+*** Collection
+ Logs - vended (VPC Flow, S3 bucket), Services (EC2, Cloudsearch, etc), Custom logs using AWS System Manager to install an agent
+ Metrics - collect default metrics from 70 services
+ CloutTrail Logs
+
+*** Monitoring
+ Unified Dashboards
+ High resolution Alarms
+
+*** Act
+ Automated Response to CloudWatch Events
+ ASG Scale Events
+ Notify SNS or Run a Lambda
+
+*** Security
+ PCI and FedRamp Compliant
+ Encrytped at rest and in transit
+
+ Metrics
+ costs
+ how to implement
+ what can it do
+ do I have to do anything else
+ how long is it available
+ do I have to do somethig to store it
+ what can I do with the data
+
+
+ Cloud Trail
+ costs
+ what the hell is it
+ do I have to do anythig
+
+** Pricing
+* CloudTrail
+** Links
+** Overview
+** Features
+** Pricing
+
+** compliance
+provides a history of activity on the AWS account
+
+** data Exfiltration
+detect output through object level API events
+
+integrates with cloudwatch
+records management console and API calls - along with source IP and time
+can define workflows for when security violations occur
+
+** Best Practices
+
+
+it is always on - 90 days available 
+can be configured to write logs to s3 bucket
+
+
+
+
+can hook up object data event for imports S3 - only access by ec2
+
+IAM changes
+
+
+So, send logs to S3
+send logs also to CloudWatch
+Add ararm
+
+
+Free to view, filter and download management events for 90 days
+Single copy of management events shipped to S3 is free other than S3 charges
+Data Events are $0.10 per 100,000
+
+So, need to estimate number of management and data events
+
+
+* Set up for Security
+
+- Enable CloudTrail: kineticcommerce-cloudtrail
+- All regions
+- 
+
+
+
+* Terraform
+
+- can set up cloud trails
+- can set up metrics alarms
+
+
+
+
+
+MVP
+create the main cloudtrail bucket
+create the main cloud trail for all regions
+hook up data events for Kielhs and l'oreal buckets
+hook up management events for everything
+
+
+Alarming!
+what kind of alarm could I set for security?
+
+More more
+Question: Can and should they be separated? A separate trail for Kiehls etc.
+Which should I add to terraform?
+Probabably data events that are associated with the S3 buckets created
+
+
+
+
+set up a slack channel for updates - aws-alerts
+- changes to cloudtrail configuration
+- insecure cloudtrail buckets
+
+
+
+Cloud trail already on in dev! W00!

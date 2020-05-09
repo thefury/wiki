@@ -1,0 +1,24 @@
+
+= PostgreSQL Views =
+
+:postgresql:view:sql:snippet:
+
+== Overview ==
+
+A view is a named query. It dose not store data, except in the case of a materialized view, except in the case of a `materialized view`.
+
+== Reasons for Use ==
+
+- useful in encapsulating a complex query
+- a `materialized view` stores (and periodically refreshes) data, leading to faster access, caching, etc.
+
+
+= Using Views =
+
+== Listing Views ==
+
+From `psql`: `\dv *.*`, or `\dv bigquery.*`
+
+In SQL:
+
+SELECT table_name from information_schema.views where table_schema = 'bigquery';

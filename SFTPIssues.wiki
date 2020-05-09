@@ -1,0 +1,8 @@
+= SFTP chroot Logging =
+
+:sftp:chroot:
+
+= Logging =
+How to set up logging for chroot jailed users:
+
+https://www.the-art-of-web.com/system/sftp-logging-chroot/

@@ -1,0 +1,31 @@
+= Side Dishes =
+
+:workyard:ideas:cleanup:business:
+
+A side dish is a good idea for a smaller first business. It isn;t the best in 
+the world as you are tied to someone elses platform, but it comes with a built
+in market and things like that. It's also, generally, much easier to develop.
+
+
+Things I Use
+
+Etsy Shop
+ideas - https://spacefem.com/etsy/index.php
+Competitive Analysis
+
+Analyze the best working tags for a store - hearts, sales, 
+List stores that have openened in the last week
+tag analyzer - sort by price band and count
+- shop analyzer - scan an entire shop to find out what is selling well and what isn't
+  - example: https://spacefem.com/etsy/active.php
+-   
+Freshbooks
+Jira
+Wordpress
+Hugo
+
+
+Ideas
+
+Analytics on publicly available data
+Help people make more money or lose less money

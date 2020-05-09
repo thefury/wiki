@@ -1,0 +1,83 @@
+# Making a Canoe
+
+:cleanup:boat-building:canoe:
+
+* Tasks
+** NOTE Formula for canoe capacity                                    
+
+ All measurements in feet:
+
+ capacity (pounds) = L x W x 10
+** TODO simple canoe stands [[http://buildersforum.bearmountainboats.com/viewtopic.php?f=9&t=4476][link]] 
+** TODO Remove payment for roku!  
+   SCHEDULED: <2019-07-10 Wed>
+** TODO canoe gear can be found here - good for designs? [[https://kondosoutdoors.com/shop/canoe-gear/][link]] 
+** TODO A decent looking, possibly fitting, canoe [[http://www.hornbeckboats.com/boats_nt_12.php][link]] 
+* Old Town Discovery 119
+SPECS:
+
+    Length: 11’9”
+    Maximum weight capacity: 450- 500 lbs.
+    Boat weight: 49 lbs.
+    Width: 32.5”
+    Width at 4” waterline: 31”
+    Bow height: 19”
+    Depth: 13.5”
+
+This might be the berfect size for me in the apartment. Maybe a little rounder with
+less bow. Or similar.
+
+check to see how well this conforms to the pack canoe in my building thinger as well as in
+the books I'm picking up now.
+
+Compare to:
+
+- stonefly
+- wee lassie
+- canvas canoe bulding book
+- kevlar canoe building book
+
+Can this be made in a fuselage frame? Only one way to find out!
+
+* test frame. 
+
+Make a small frame that is the dimensions of the canoe. Cover with cheap cardboard.
+
+Use this to see if it will go in and out of the apartment.
+
+
+
+Honestly, with this capacity I might be good for everything I generally need for canoe
+trips, fishing, and hunting.
+
+
+WAIT! I can dsign to a certain level if I want!
+
+- what freeboard do I want
+- how deep to I want it to run
+- how to I want it to handle?
+- bazinga!
+
+
+e.g. at 4" waterline...
+
+I want a capacity of 450 pounds. The general formula for capacity in pounds is:
+
+Cap = L x W * 15
+
+
+
+* Swift Keewaydin 14
+
+L = 14
+W = 28
+Waterline W = 25
+D = 11.5
+Bow height 18
+Stern height 15
+Bow rocker 2"
+Stern rocker 1"
+
+Optimal load - 120-260
+Industry Capacity - 400
+

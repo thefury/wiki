@@ -1,0 +1,22 @@
+
+= Laneway - Clean Hacked Server =
+:laneway:client-work:workyard:
+
+
+- installed a docker-compse lab for mysql, phpmyadmin, wordpress
+- current laneway version: 4.1.8
+- current latest version: 5.4
+
+1. view list of corrupt files sent by A
+2. quick scan of database content
+
+
+=== Suggestions ===
+
+1. Update to latest version of WP
+2. Minimize the number of plugins used
+
+= Results =
+
+Client decided to not follow through with the clean as it would be cheaper to
+generate a new site.

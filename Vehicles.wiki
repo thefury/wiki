@@ -1,0 +1,41 @@
+# Vehicles
+
+:vehicle:cleanup:
+
+## XTerra
+
+### Insurance
+
+### Ownership
+
+### Problems and Projects
+
+- BatteryDrained 
+- RustyRockerPanels
+- OilLeak
+
+It looks like there is a very common problem with the XTerra with loose 
+bolts on the valve covers. I should try replacing the gasket on that first
+before I go any further. After that, the oil pan lip is a common one. only
+after that should I look into the rear main seal.
+  
+### Log
+
+2020-02-15: Approximate date - truck has a drained battery - 3rd time. Possible ParasiticDrain
+
+## LS650 Savage
+
+### Insurance
+
+### Ownership
+
+### Problems and Projects
+
+- Replace the pipe
+- clean the carbs
+- detail the bike in prep for quick sale
+- pass licence test
+
+
+### Log
+

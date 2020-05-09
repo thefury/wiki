@@ -1,0 +1,44 @@
+= Melodic Math =
+
+:music:melody:songwriting:
+
+
+== Example to Play With ==
+Ok - let's try this... This is for a surf song
+
+Verse in E Phrygian
+Bridge in parallel major - A Major
+chorus in relative major - C Major
+
+
+4 on the floor to make this easy
+
+v = 16 bars - 64 beats
+c = 8 bars - 32
+b = 8 bars - 32
+
+Parts
+A - 2 (i) 2 (iii) 1 (ii) 1 (1) 2  = 8
+B - 3 (ii) 1 (n) 3 (i) 1    = 8
+C - 1 (n) 2 (i) 1 (ii) 2   = 4
+D - 1 (iii) 1 (iv) 2     = 4
+
+Rules
+Chorus must happen within 50 seconds
+Chorus must share at least 1 segment with verse
+Bridge must share at least 1 segment with verse
+
+
+V1
+/ / / / | / / / / | / / / / | / / / /
+/ / / / | / / / / | / / / / | / / / /
+/ / / / | / / / / | / / / / | / / / /
+/ / / / | / / / / | / / / / | / / / /
+
+C
+/ / / / | / / / / | / / / / | / / / /
+/ / / / | / / / / | / / / / | / / / /
+
+B
+/ / / / | / / / / | / / / / | / / / /
+/ / / / | / / / / | / / / / | / / / /

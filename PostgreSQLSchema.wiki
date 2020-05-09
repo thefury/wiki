@@ -1,0 +1,39 @@
+= PostgreSQL Schemas =
+
+:postgresql:schema:sql:snippet:
+
+== Overview ==
+
+A schema is a namespace. It can contain named db objects such as:
+
+- views
+- tables
+- data types
+- indexes
+- operators
+- functions
+
+== Reasons for Use ==
+
+- As wih all namespaces, allow multiple people to access without trampling all over each other
+- Easier to manage with logically grouped objects
+
+= Using Shcemata =
+
+== Listing Schemata ==
+
+To list schemas in the database:
+
+select schema_name from information_schema.schemata;
+
+== Selecting Schema ==
+
+select current_schema();
+select * from staff; -- uses the path order - usually $user, public
+select * from sales.staff; -- explicit call to schema
+
+== Modifying Schemata ==
+
+CREATE SCHEMA IF NOT EXISTS sales; -- creates a schema
+DROP SCHEMA IF EXISTS sales; -- like it says on the tin
+ALTER SCHEMA; -- go read the docs for this one

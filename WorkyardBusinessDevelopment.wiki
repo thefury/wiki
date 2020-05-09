@@ -1,0 +1,21 @@
+# Workyard Business Development
+
+:cleanup:workyard:services:business:ideas:
+
+## Possible Services
+
+- ITTraining
+- SoftwareDevelopment
+- InfrastructureAutomation
+- AccessibilityAudit
+- DigitalTransformation
+- CloudMigration
+- DatabaseMigration
+
+## Possible Competitors
+
+-https://www.croc.ru/eng/solution/ikt-infrastructure/cloud/
+
+Take a look at this as content marketing:
+https://www.nearform.com/blog/writing-reusable-terraform-modules/
+

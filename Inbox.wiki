@@ -1,0 +1,11 @@
+= Inbox =
+
+== Main Buckets ==
+
+[[ApplicationIdeas]]
+[[BusinessIdeas]]
+[[MusicIdeas]]
+[[CoversToLearn]]
+[[LeatherIdeas]]
+
+== New Items ==

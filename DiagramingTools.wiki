@@ -1,0 +1,11 @@
+= Diagraming Tools =
+
+:tools:
+
+== UML and the like == 
+- https://www.diagram.codes/
+
+== markdown based ==
+
+- convert markdown to mindmap: https://markmap.js.org/ 
+

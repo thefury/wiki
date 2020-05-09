@@ -1,0 +1,15 @@
+= SSM Parameter Sidecar =
+
+:workyard:business:ideas:
+
+This application is for pulling and building configuration for applications running on AWS. This is
+a simple sidecar application that is started before the application itself. It should run on
+container startup and it should run on a schedule.
+
+- application that pulls SSM
+- can tell that a configuration needs to be changed
+- can run on startup of the container
+- it outputs a file based on a template.
+
+Needs the path(s) 
+Needs the config file(s) to write

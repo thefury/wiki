@@ -1,0 +1,25 @@
+= Instructions for Maker Space Laser Cutter =
+
+:makerspace:myog:cleanup:
+
+# Maker Space Laser Cutter
+
+* one
+file doc properties 
+
+custom size
+units inches
+40inches by s2inches high
+change back to millimetres
+
+only reads in mm!
+
+- selction tool - arrow
+- node tool - referece points for SVG type stuff
+- zoom
+
+
+2. set fill properties
+
+
+edit, make a bitmap copy, path, trace bitmap

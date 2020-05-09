@@ -1,0 +1,40 @@
+# Workyard Infrastructure Ideas
+
+:workyard:cleanup:business:ideas:
+
+There are systems that I see people asking for. I would sell them access to my scripts, or I
+would sell them maintenance time as well as a small retainer.
+
+
+These will be built with best practices, etc.
+All can be made with development, staging, production (or multiple production)
+All work with containerized workloads
+
+Simple API
+Simple web app with frontend
+A corporate blogging site
+A corporate sales site
+A cross region redundant API
+A turnkey CI/CD, git, toolchain
+A k8s system in AKS
+A nomad system in AWS
+logging and monitoring of a system
+alerting through victorops, etc.
+a caching layer for memory
+a persistence layer - containerized for dev
+a persistence layer - managed for prod
+
+
+What I offer:
+
+- installation of the system requested with given parameters
+- ongoing maintenance retainer
+- documentation on how this works
+
+Additional
+
+- modifications of an existing product
+- training online
+- training in person
+- on-call support
+- 
